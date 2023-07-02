@@ -15,6 +15,6 @@ Project dibangun atas dasar permasalahan pada suatu toko milik Andi yang membutu
 5. Penggunaan fitur looping.
 6. Interaksi antara program dengan user.
 
-#
+# FLOWCHART
+![FLOWCHART - SuperCashier KIO](https://github.com/kiolaksono/KioSuperCashier/assets/103632483/cad50702-b94f-4180-b7b3-d270714cb679)
 
-<img width="720" alt="image" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/0e57c48d-68a9-44aa-ae93-56c9ef80ef22">
