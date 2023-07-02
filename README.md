@@ -16,5 +16,40 @@ Project dibangun atas dasar permasalahan pada suatu toko milik Andi yang membutu
 6. Interaksi antara program dengan user.
 
 # FLOWCHART
-![FLOWCHART - SuperCashier KIO](https://github.com/kiolaksono/KioSuperCashier/assets/103632483/cad50702-b94f-4180-b7b3-d270714cb679)
+![Flowchart](https://github.com/kiolaksono/KioSuperCashier/assets/103632483/ab68a3de-25b8-4149-8afa-e994567d980b)
+
+# PENJELASAN PROGRAM
+1. Program dapat berjalan dengan meletakkan semua file dalam satu direktori lokal yang sama.
+2. Function yang pertama dijalankan adalah Function Check Order sebagai main menu program.
+3. User dapat menjalankan menu sesuai dengan yang dibutuhkan.
+4. Function yang ada berjalan menyesuaikan menu yang dipilih oleh user.
+5. Ketika user memilih untuk Check Out, Function totalOrder() akan berjalan dan data akan langsung masuk ke dalam database.
+
+# HASIL TEST
+1. Menu Awal Program
+   <img width="720" alt="Menu awal" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/b3f68bfc-5c9d-4036-8dd6-4b7046c8249e">
+
+2. Menambahkan Data
+   <img width="720" alt="Tambah Data" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/10edc333-eb73-413f-a519-60155fec27b2">
+
+3. Mengubah Nama Produk
+   <img width="720" alt="Ubah nama" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/026e301b-6ec7-4302-bbbe-b9fdc139e5e3">
+
+4. Mengubah Jumlah Produk yang dibeli
+   <img width="720" alt="Ubah Jumlah" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/367b44a0-e616-4384-a396-8497e16d1a3e">
+
+5. Mengubah Harga Produk
+   <img width="720" alt="Ubah Harga" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/1f80f77d-0717-4833-b82a-81fea759b84e">
+
+6. Menghapus Barang Dari Keranjang
+   <img width="720" alt="Hapus barang" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/8fdb804b-a012-4eb4-bc70-0655a6add802">
+
+7. Reset Keranjang
+   <img width="720" alt="Reset keranjang" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/7097d27f-b804-4ece-ae09-e712d14e1928">
+
+8. Check Out Keranjang
+   <img width="1407" alt="Check Out" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/c7dcac20-7d59-4972-b966-8c80d9c5e1bb">
+
+9. Hasil Check Out
+   <img width="1362" alt="db" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/53b3e6ce-cd9b-453c-be5e-f9b4793b6858">
 
