@@ -17,4 +17,4 @@ Project dibangun atas dasar permasalahan pada suatu toko milik Andi yang membutu
 
 #
 
-<img width="1710" alt="image" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/0e57c48d-68a9-44aa-ae93-56c9ef80ef22">
+<img width="720" alt="image" src="https://github.com/kiolaksono/KioSuperCashier/assets/103632483/0e57c48d-68a9-44aa-ae93-56c9ef80ef22">
